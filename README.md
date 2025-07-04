@@ -51,6 +51,7 @@ Here’s a preview of GreenTrace in action:
 <div align="center">
   <img src="./docs/png/image.jpg" width="500" />
 </div>
+
 ---
 
 ## Security Considerations
