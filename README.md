@@ -31,7 +31,7 @@ Follow these steps to run the project locally:
 2. Clone or download this project:
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/cynesigethelstan/GreenTrace
 cd GreenTrace
 ```
 
