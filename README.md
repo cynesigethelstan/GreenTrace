@@ -48,7 +48,9 @@ dfx deploy --network=ic
 
 ## Screenshot
 Here’s a preview of GreenTrace in action:
-
+<div align="center">
+  <img src="./docs/png/image.jpg" width="300" />
+</div>
 ---
 
 ## Security Considerations
